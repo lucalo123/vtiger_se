@@ -887,7 +887,7 @@ $jsLanguageStrings = array(
 	'JS_DUPLIACATE_ENTRIES_FOUND_FOR_THE_VALUE' => 'Dubbletter hittades för värdet',
 	'JS_SELECT_RECORDS_TO_MERGE_FROM_SAME_GROUP' => 'Välj grupper för sammanfogning',
 	'JS_SELECT_ATLEAST_TWO_RECORD_FOR_MERGING' => 'Välj minst två grupper för sammanfogning',
-	'JS_ALLOWED_TO_SELECT_MAX_OF_THREE_RECORDS' => 'Du får tills välja högst tre grupper',
+	'JS_ALLOWED_TO_SELECT_MAX_OF_THREE_RECORDS' => 'Du får välja högst tre grupper',
 	//Notification message for dashboard widget delete
 	'JS_ARE_YOU_SURE_TO_DELETE_WIDGET' => 'Är du säker på att radera widget?',
 	'JS_DUPLICATE_ENTRIES_FOUND_FOR_THE_VALUE' => 'Kopior hittades för',
