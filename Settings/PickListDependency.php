@@ -37,6 +37,6 @@ $jsLanguageStrings = array(
     'JS_DEPENDENCY_DELETED_SUEESSFULLY' => 'Plocklistrelation raderades',
     'JS_PICKLIST_DEPENDENCY_SAVED' => 'Plocklistsrelation sparades',
     'JS_DEPENDENCY_ATLEAST_ONE_VALUE' => 'Du måste välja minst ett värde för',
-    'JS_SOURCE_AND_TARGET_FIELDS_SHOULD_NOT_BE_SAME' => 'Källfältet och målfältet bör inte vara samma',
+    'JS_SOURCE_AND_TARGET_FIELDS_SHOULD_NOT_BE_SAME' => 'Källa och mål får inte vara samma',
     'JS_SELECT_SOME_VALUE' => 'Välj något värde'
 );

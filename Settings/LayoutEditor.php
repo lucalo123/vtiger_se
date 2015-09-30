@@ -67,8 +67,8 @@ $languageStrings = array(
 );
 
 $jsLanguageStrings = array(
-	'JS_BLOCK_VISIBILITY_SHOW' => 'Block visa aktiverad',
-	'JS_BLOCK_VISIBILITY_HIDE' => 'Block dölj aktiverat',
+	'JS_BLOCK_VISIBILITY_SHOW' => 'Block synlig',
+	'JS_BLOCK_VISIBILITY_HIDE' => 'Block döljs',
 	'JS_CUSTOM_BLOCK_ADDED' => 'Nytt anpassat block tillades',
 	'JS_BLOCK_SEQUENCE_UPDATED' => 'Blocksekvens uppdaterades',
 	'JS_SELECTED_FIELDS_REACTIVATED' => 'Markerade fält återaktiverades',
@@ -85,5 +85,5 @@ $jsLanguageStrings = array(
 	'JS_SPECIAL_CHARACTERS' => 'Specialtecken som',
 	'JS_NOT_ALLOWED' => 'Otillåtet',
 	'JS_FIELD_SEQUENCE_UPDATED' => 'Fältsekvensen uppdaterades',
-	'JS_DUPLICATES_VALUES_FOUND' => 'Dubblettvärden hittades'
+	'JS_DUPLICATES_VALUES_FOUND' => 'Kopior hittades'
 );

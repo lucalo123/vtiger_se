@@ -253,7 +253,7 @@ $jsLanguageStrings = array(
 	'JS_RECORD_NUMBERING_SAVED_SUCCESSFULLY_FOR' => 'Postnumrering sparades för',
 	'LBL_PREFIX_IN_USE' => 'Prefix används',
 	'JS_RECORD_NUMBERING_UPDATED_SUCCESSFULLY_FOR' => 'Postnumrering uppdaterats för',
-	'JS_SEQUENCE_NUMBER_MESSAGE' => 'Sekvensnumreringbör vara STÖRRE än(>) eller LIKA med(=)',
+	'JS_SEQUENCE_NUMBER_MESSAGE' => 'Sekvensnumreringbör vara STÖRRE än eller LIKA med',
 	'LBL_WRONG_IMAGE_TYPE' => 'bildformat stöds inte',
 	'LBL_MAXIMUM_SIZE_EXCEEDS' => 'Du kan ladda upp maximalt 1MB',
 	'LBL_NO_LOGO_SELECTED' => 'Ingen logo vald',

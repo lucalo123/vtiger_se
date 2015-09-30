@@ -11,7 +11,7 @@ $languageStrings = array(
 	// Basic Strings
 	'Leads' => 'Leads',
 	'SINGLE_Leads' => 'Lead',
-	'LBL_RECORDS_LIST' => 'Leadslista',
+	'LBL_RECORDS_LIST' => 'Leads',
 	'LBL_ADD_RECORD' => 'Skapa lead',
 
 	// Blocks

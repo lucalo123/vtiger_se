@@ -9,10 +9,10 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'HelpDesk' => 'HelpDesk',
-	'SINGLE_HelpDesk' => 'HelpDesk',
-	'LBL_ADD_RECORD' => 'Skapa HelpDesk',
-	'LBL_RECORDS_LIST' => 'HelpDesks',
+	'HelpDesk' => 'Ärendehantering',
+	'SINGLE_HelpDesk' => 'Ärende',
+	'LBL_ADD_RECORD' => 'Skapa ärende',
+	'LBL_RECORDS_LIST' => 'Ärenden',
 
 	// Blocks
 	'LBL_TICKET_INFORMATION' => 'Ärendeinformation',
@@ -21,18 +21,18 @@ $languageStrings = array(
 	//Field Labels
 	'Ticket No' => 'Ärendenummer',
 	'Severity' => 'Allvarlighetsgrad',
-	'Update History' => 'Uppdatera Historiken',
+	'Update History' => 'Uppdatera historik',
 	'Hours' => 'Timmar',
 	'Days' => 'Dagar',
 	'Title' => 'Titel',
 	'Solution' => 'Lösning',
-	'From Portal' => 'Från Portal',
+	'From Portal' => 'Från portal',
 
 	//Added for existing picklist entries
 
-	'Big Problem'=>'Stort Problem',
-	'Small Problem'=>'Små Problem',
-	'Other Problem'=>'Annat Problem',
+	'Big Problem'=>'Stort problem',
+	'Small Problem'=>'Små problem',
+	'Other Problem'=>'Annat problem',
 
 	'Normal'=>'Normal',
 	'High'=>'Hög',
@@ -44,7 +44,7 @@ $languageStrings = array(
 	'Critical'=>'Kritisk',
 
 	'Open'=>'Öppen',
-	'Wait For Response'=>'Vänta på Svar',
+	'Wait For Response'=>'Vänta på svar',
 	'Closed'=>'Avslutad',
 	'LBL_STATUS' => 'Status',
 	'LBL_SEVERITY' => 'Allvarlighetsgrad',
@@ -80,7 +80,7 @@ $languageStrings = array(
 	'LBL_CUSTOMER_COMMENTS' => 'Kundens Kommentarer:',
 	'LBL_RESPOND'=> 'Vänligen svara på ovanstående ärende snarast',
 	'LBL_SUPPORT_ADMIN' => 'Supportadmin',
-	'LBL_RESPONDTO_TICKETID' =>'Svara på Ärende ID',
+	'LBL_RESPONDTO_TICKETID' =>'Svara på ÄrendeID',
 	'LBL_RESPONSE_TO_TICKET_NUMBER' =>'Svar till ärendenummer',
 	'LBL_TICKET_NUMBER' => 'Ärendenummer',
 	'LBL_CUSTOMER_PORTAL' => 'Kundportal - brådskande',
@@ -89,10 +89,10 @@ $languageStrings = array(
 	'LBL_USERNAME' => 'Användarnamn :',
 	'LBL_PASSWORD' => 'Lösenord:',
 	'LBL_SUBJECT_PORTAL_LOGIN_DETAILS' => 'Beträffande din kundportalsinloggningsuppgifter',
-	'LBL_GIVE_MAILID' => 'Vänligen ange ditt e-post id',
-	'LBL_CHECK_MAILID' => 'Kontrollera ditt e-post-ID för din kundportal',
+	'LBL_GIVE_MAILID' => 'Vänligen ange ditt e-postID',
+	'LBL_CHECK_MAILID' => 'Kontrollera ditt e-postID för din kundportal',
 	'LBL_LOGIN_REVOKED' => 'Din inloggning återkallas. Kontakta din administratör.',
 	'LBL_MAIL_SENT' => 'E-post har skickats till din e-post-id med kundportalsinloggningsuppgifter',
 	'LBL_ALTBODY' => 'Detta är den oformaterade textmassan som skickas till icke-HTML e-postklienter',
-	'HelpDesk ID' => 'HelpDesk ID',
+	'HelpDesk ID' => 'ÄrendeID',
 );

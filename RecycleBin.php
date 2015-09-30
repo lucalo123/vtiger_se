@@ -15,12 +15,12 @@ $languageStrings = Array(
 	'LBL_RESTORE' => 'Återställ',
 	'LBL_NO_PERMITTED_MODULES' => 'Inga tillåtna moduler tillgängliga',
 	'LBL_RECORDS_LIST' => 'Papperskorgslista',
-	'LBL_NO_RECORDS_FOUND' => 'Inga poster återfanns att återställa i modul',
+	'LBL_NO_RECORDS_FOUND' => 'Inga inlägg hittades',
 );
 
 $jsLanguageStrings = array(
-	'JS_MSG_EMPTY_RB_CONFIRMATION' => 'Är du säker på att du vill tills permanent ta bort alla borttagna poster från databasen?',
-	'JS_LBL_RESTORE_RECORDS_CONFIRMATION' => 'Är du säker på att du vill tills återställa inläggen?',
+	'JS_MSG_EMPTY_RB_CONFIRMATION' => 'Är du säker på att du vill permanent radera alla borttagna inlägg från databasen?',
+	'JS_LBL_RESTORE_RECORDS_CONFIRMATION' => 'Är du säker på att du vill återställa inläggen?',
 	'JS_RESTORING_RECORDS' => 'Återställer inlägg',
 );
 

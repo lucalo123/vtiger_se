@@ -40,13 +40,13 @@ $languageStrings = array(
 	
 	//Translation for product not found
 	'LBL_THIS' => 'Den här',
-	'LBL_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_OR_REPLACE_THIS_ITEM' => 'tas bort från systemet. Vänligen ta bort eller ersätta denna artikel',
-	'LBL_THIS_LINE_ITEM_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_THIS_LINE_ITEM' => 'Denna artikel tas bort från systemet, vänligen ta bort denna artikel',
+	'LBL_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_OR_REPLACE_THIS_ITEM' => 'är borttagen från systemet. Vänligen ta bort eller ersätt denna artikel',
+	'LBL_THIS_LINE_ITEM_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_THIS_LINE_ITEM' => 'Denna artikelrad är borttagen från systemet, vänligen radera artikelrad',
 	'LBL_NOT_A_BUNDLE' => 'Obuntad',
 	'LBL_SUB_PRODUCTS'	=> 'Under Produkter',
 	'LBL_ACTION'	=> 'Åtgärd',
 );
 
 $jsLanguageStrings = array(
-	'JS_PLEASE_REMOVE_LINE_ITEM_THAT_IS_DELETED' => 'Vänligen ta bort den post som har raderats',
+	'JS_PLEASE_REMOVE_LINE_ITEM_THAT_IS_DELETED' => 'Vänligen ta bort artikelrad som har raderats',
 );

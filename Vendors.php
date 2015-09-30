@@ -41,6 +41,6 @@ $languageStrings = array(
 
 $jsLanguageStrings = array(
 	'LBL_RELATED_RECORD_DELETE_CONFIRMATION' => 'Är du säker på att du vill radera?',
-	'LBL_DELETE_CONFIRMATION' => 'Radera den här leverantören kommer att ta bort dess relaterade inköpsorder. Är du säker på att du vill radera denna Vendor?',
-	'LBL_MASS_DELETE_CONFIRMATION' => 'Radera denna leverantör(er) kommer att ta bort dess närstående inköpsorder. Är du säker på att du vill ta bort de markerade posterna?',
+	'LBL_DELETE_CONFIRMATION' => 'Radering av den här leverantören kommer att ta bort dess relaterade inköpsordrar. Är du säker?',
+	'LBL_MASS_DELETE_CONFIRMATION' => 'Radering utav dessa leverantörer kommer att ta bort alla dess relaterade inköpsordrar. Är du säker?',
 );

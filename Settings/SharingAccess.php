@@ -33,5 +33,5 @@ $jsLanguageStrings = array(
 	'JS_CUSTOM_RULE_SAVED_SUCCESSFULLY' => 'Anpassad regel sparades',
 	'JS_SELECT_ANY_OTHER_ACCESSING_USER' => 'Välj någon annan åtkomstanvändare',
 	'JS_NEW_SHARING_RULES_APPLIED_SUCCESSFULLY' => 'Nya delningsregler tillämpas',
-	'JS_DEPENDENT_PRIVILEGES_SHOULD_CHANGE' => 'Affärsmöjligheter, Ärende, Offerter, Försäljningsorder & Fakturatillgång måste vara inställd på privat när organisationens tillgångar är satta till privat',
+	'JS_DEPENDENT_PRIVILEGES_SHOULD_CHANGE' => 'Affärsmöjligheter, Ärende, Offerter, Försäljningsorder & Fakturatillgång måste vara inställd på privat när organisationens tillgångar är satta som privata',
 );

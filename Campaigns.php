@@ -64,5 +64,5 @@ $languageStrings = array(
 	'--None--'=>'--None--',
 	'Contacted - Successful' => 'Kontaktad - Lyckad',
 	'Contacted - Unsuccessful' => 'Kontaktad - Misslyckad',
-	'Contacted - Never Kontakt Again' => 'Kontaktad - Kontakta aldrig igen',
+	'Contacted - Never Kontakt Again' => 'Kontaktad - Aldrig igen',
 );

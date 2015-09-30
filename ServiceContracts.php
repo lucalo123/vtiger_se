@@ -30,7 +30,7 @@ $languageStrings = array(
 	'Actual Duration' => 'Verklig varaktighet(i dagar)',
 
 	//Patch provided by http://trac.vtiger.com/cgi-bin/trac.cgi/ticket/7884
-	'Due date' => 'Datum klar',
+	'Due date' => 'Förfallodatum',
 	//Picklist values
 	'Hours' => 'Timmar',
 	'Days' => 'Dagar',

@@ -26,7 +26,7 @@ $languageStrings = array(
 	'LBL_DELETE_RECORD' => 'Radera profil',
 	
 	'LBL_VIEW_PRVILIGE' => 'Vyprivilegie',
-	'LBL_EDIT_PRVILIGE' => 'Skapa/Redigera',
+	'LBL_EDIT_PRVILIGE' => 'Skapa / Redigera',
 	'LBL_DELETE_PRVILIGE' => 'Radera privilegie',
 	'LBL_INIVISIBLE' => 'Osynlig',
 	'LBL_READ_ONLY' => 'Endast läsrättigheter',

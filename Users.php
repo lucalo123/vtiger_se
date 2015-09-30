@@ -222,7 +222,7 @@ $languageStrings = array(
     'Asia/Magadan'  =>  '(UTC+12:00) Magadan',
     'Pacific/Tongatapu'  =>  '(UTC+13:00) Nukualofa',
 
-	'Summary' => 'Summerat',
+	'Summary' => 'Sammanfattning',
 	'Detail' => 'Detaljerat',
 	'LBL_USER_LIST_DETAILS' => 'Användaruppgifter',
     'LBL_ACTIVE_USERS' => 'Aktiva användare',

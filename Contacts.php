@@ -64,7 +64,7 @@ $languageStrings = array(
 
 $jsLanguageStrings = array(
         'LBL_SYNC_BUTTON' => 'Synkronisera nu',
-        'LBL_SYNCRONIZING' => 'Synkronisering....',
+        'LBL_SYNCRONIZING' => 'Synkroniserar...',
         'LBL_NOT_SYNCRONIZED' => 'Du har inte synkroniserat ännu',
         'LBL_FIELD_MAPPING' => 'Fältmappning'
  );

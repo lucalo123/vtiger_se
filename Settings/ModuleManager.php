@@ -65,9 +65,9 @@ $languageStrings = array(
         'LBL_RATE_IT' => 'Gradera',
 );
 $jsLanguageStrings = array(
-  'JS_PLEASE_SETUP_CARD_DETAILS_TO_INSTALL_THIS_EXTENSION'  => 'Vänligen inställningskortuppgifter för att installera detta tillägg',
+  'JS_PLEASE_SETUP_CARD_DETAILS_TO_INSTALL_THIS_EXTENSION'  => 'Vänligen lägg till kortuppgifter för att installera detta tillägg',
   'JS_UPDATE_CARD_DETAILS' => 'Uppdatera kortuppgifter',
   'JS_ON' => 'på',
   'JS_RATINGS' => 'Betyg',
-  'JS_PLEASE_INSTALL_EXTENSION_LOADER_TO_INSTALL_THIS_EXTENSION_FROM_BELOW_LINK' => 'Installera tilläggsladdaren att installera detta tillägg underifrån länk',
+  'JS_PLEASE_INSTALL_EXTENSION_LOADER_TO_INSTALL_THIS_EXTENSION_FROM_BELOW_LINK' => 'Installera tilläggsladdaren för att kunna installera detta tillägg',
 );

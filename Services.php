@@ -24,7 +24,7 @@ $languageStrings = array(
 	'LBL_RESET' => 'Återställ',
 	
 	//Services popup of pricebook
-	'LBL_ADD_TO_PRICEBOOKS' => 'Skapa i prisguide',
+	'LBL_ADD_TO_PRICEBOOKS' => 'Lägg till i prisguide',
 
 	//Fält Labels
 	'Service Namn'=>'Titel',

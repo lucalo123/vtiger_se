@@ -8,15 +8,15 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-    'Portal' => 'Vår Portal',
+    'Portal' => 'Portal',
     'LBL_ADD_BOOKMARK' => 'Skapa bokmärke',
     'LBL_BOOKMARK_NAME' => 'Bokmärkets namn',
     'LBL_BOOKMARK_URL' => 'Bokmärkets Url',
     'LBL_CREATED_ON' => 'Skapad den',
     'SINGLE_Portal' => 'Portal',
-    'LBL_EDIT_BOOKMARK' => 'Redigera Bokmärke',
-    'LBL_ENTER_BOOKMARK_NAME' => 'Ange Bokmärkets namn',
-    'LBL_ENTER_URL' => 'Skriv in URL (www.example.com)',
+    'LBL_EDIT_BOOKMARK' => 'Redigera bokmärke',
+    'LBL_ENTER_BOOKMARK_NAME' => 'Ange bokmärkets namn',
+    'LBL_ENTER_URL' => 'Skriv in URL (www.exempel.se)',
     'LBL_ADD_NEW_BOOKMARK' => 'Skapa nytt bokmärke',
     'LBL_BOOKMARK_SAVED_SUCCESSFULLY' => 'Bokmärk sparades',
     'LBL_RECORD_DELETED_SUCCESSFULLY' => 'Bokmärke raderades',
@@ -25,7 +25,7 @@ $languageStrings = array(
     'LBL_BOOKMARKS_DELETED_SUCCESSFULLY' => 'Bokmärken raderades',
     'LBL_BOOKMARK' => 'Bokmärke',
     'LBL_BOOKMARKS' => 'Bokmärken',
-    'HTTP_ERROR' => 'Den webbplats som du försöker öppna är inte säker och kanske inte öppna. Om du fortfarande vill visa webbsidan så kan du klicka på innehållet blockerare i adressfältet och aktivera den.',
+    'HTTP_ERROR' => 'Den hemsida som du försöker öppna är kanske inte säker. Om du fortfarande vill visa hemsidan så kan du klicka på blockeraren i adressfältet och aktivera den.',
 );
 
 $jsLanguageStrings = array(

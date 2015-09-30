@@ -56,7 +56,7 @@ $languageStrings = array(
 
 $jsLanguageStrings = array(
 	'LBL_RELATED_RECORD_DELETE_CONFIRMATION' => 'Är du säker på att du vill radera?',
-	'LBL_DELETE_CONFIRMATION' => 'Radera den här Organisation kommer att ta bort dess relaterade Affärsmöjligheter & Offerter. Är du säker på att du vill radera den här Organisationen?',
-	'LBL_MASS_DELETE_CONFIRMATION' => 'Radera den här Organisationen(erna) kommer att ta bort dess relaterade Affärsmöjligheter & Offerter. Är du säker på att du vill radera de valda posterna?',
-	'JS_DUPLICTAE_CREATION_CONFIRMATION' => 'Organisationsnamnet finns redan. Vill du skapa en dubblett av poseten?'
+	'LBL_DELETE_CONFIRMATION' => 'Radering utav organisation kommer att ta bort dess relaterade affärsmöjligheter & offerter. Är du säker?',
+	'LBL_MASS_DELETE_CONFIRMATION' => 'Radering utav Organisationerna kommer att ta bort alla dess relaterade affärsmöjligheter & offerter. Är du säker?',
+	'JS_DUPLICTAE_CREATION_CONFIRMATION' => 'Organisationsnamnet finns redan. Vill du skapa en kopia?'
 );
