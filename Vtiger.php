@@ -59,8 +59,8 @@ $languageStrings = array(
 	'LBL_GO_TO_FULL_FORM' => 'Gå till stora formuläret',
 	'LBL_SEND_SMS' => 'Skicka SMS',
 	'LBL_FOUND' => 'Hittade',
-	'LBL_CLICK_ADD' => 'Klicka Skapa',
-	'LBL_ADD_MORE_FIELDS' => 'Skapa fler Fält',
+	'LBL_CLICK_ADD' => 'Klicka skapa',
+	'LBL_ADD_MORE_FIELDS' => 'Skapa fler fält',
 	'LBL_ADD_NOTE' => 'Skapa Notering',
 	'LBL_CREATE_NEW' => 'Skapa Ny',
     'LBL_ADD_EVENT' => 'Skapa Händelse',
@@ -73,7 +73,7 @@ $languageStrings = array(
 	'LBL_HOME' => 'Hem',
 
 	// Common Link Labels
-	'LBL_LAST_VIEWED_RECORDS' => 'Senast visade inläggen',
+	'LBL_LAST_VIEWED_RECORDS' => 'Senast visade inlägg',
 	'LBL_DASHBOARD' => 'Instrumentbräda',
 	'LBL_USER_SETTINGS' => 'Användarinställningar',
 	'LBL_MY_PREFERENCES' => 'Mina inställningar',
@@ -82,7 +82,7 @@ $languageStrings = array(
 	'LBL_DOCUMENTATION' => 'Dokumentation',
 	'LBL_VIDEO_TUTORIAL' => 'Videomanual',
 	'LBL_FEEDBACK' => 'Feedback',
-	'LBL_CHAT_SUPPORT'=>'Chat Support',
+	'LBL_CHAT_SUPPORT'=>'Chattsupport',
 	'LBL_CRM_SETTINGS' => 'CRM-inställningar',
 	'LBL_MANAGE_USERS' => 'Hantera användare',
 	'LBL_ON_DEMAND_ADMIN' => 'Skapa / Radera användare',
@@ -102,7 +102,7 @@ $languageStrings = array(
 	// Common Fields
 	'LBL_USER' => 'Användare',
 	'LBL_GROUP' => 'Grupp',
-	'Last Modified By' => 'Senast andrad av',
+	'Last Modified By' => 'Senast ändrad av',
 	'Created Time' => 'Skapad',
 	'Modified Time' => 'Ändrad',
 	'Beskrivning' => 'Beskrivning',
@@ -121,8 +121,8 @@ $languageStrings = array(
 	'LBL_NO_UPDATES' => 'Inga uppdateringar',
 	'LBL_ACTIVITIES' => 'Aktiviteter',
 	'LBL_NO_PENDING_ACTIVITIES' => 'Inga pågående aktiviteter',
-	'LBL_SUMMARY' => 'översikt',
-	'LBL_DETAILS' => 'fullständigt',
+	'LBL_SUMMARY' => 'Översikt',
+	'LBL_DETAILS' => 'Fullständig Info',
 
 	// Popup window
 	'LBL_SEARCH_FOR' => 'Sök efter',
@@ -138,7 +138,7 @@ $languageStrings = array(
 	'LBL_GROUPS' => 'Grupper',
 
 	//EditGranska Form Links
-	'LBL_FULL_FORM' => 'Fullständigt Formulär',
+	'LBL_FULL_FORM' => 'Fullständigt formulär',
 	'LBL_SIMPLE_FORM' => 'Enkelt formulär',
 
 	//Recent Comments
@@ -196,7 +196,7 @@ $languageStrings = array(
 	//Filter & Advance Filter
 	'LBL_AND' => 'och',
 	'LBL_OR' => 'eller',
-	'LBL_NONE' => '-',
+	'LBL_NONE' => 'Välj filter',
 	'LBL_APPROVE' => 'Godkänn',
 	'LBL_DENY' => 'Neka',
 	'LBL_EQUALS' => 'Är LIKA med =>',
@@ -213,7 +213,7 @@ $languageStrings = array(
 	'LBL_AFTER' => 'Är Efter =>',
 	'LBL_BETWEEN' => 'Är Mellan =>',
 	'LBL_IS_EMPTY' => 'Är ett TOMT värde',
-    'LBL_IS_NOT_EMPTY'=> 'Är INTE ett TOMT värde',
+    'LBL_IS_NOT_EMPTY'=> 'Är INTE ett Tomt värde',
 	'LBL_SEARCH' => 'Sök',
 	'LBL_SEARCH_IN' => 'Sök inom',
 	'LBL_ADD_CONDITION' => 'Skapa villkor',
@@ -223,8 +223,8 @@ $languageStrings = array(
 	'LBL_ALL_CONDITIONS_DESC' => 'Samtliga villkor måste uppfyllas',
 	'LBL_ANY_CONDITIONS' => 'Minst ett villkor',
 	'LBL_ANY_CONDITIONS_DESC' => 'Åtminstone 1 villkor måste uppfyllas',
-	'LBL_SELECT_FIELD' => 'Välj Fält',
-	'LBL_SELECT_MODULE' => 'Välj Modul',
+	'LBL_SELECT_FIELD' => 'Välj fält',
+	'LBL_SELECT_MODULE' => 'Välj modul',
 	'LBL_CREATE_NEW_FILTER' => 'Skapa nytt filter',
 	'All' => 'Alla',
 	'Others' => 'Andra',
@@ -271,7 +271,7 @@ $languageStrings = array(
 	'LBL_SET_DISCOUNT_FOR' => 'Rabatt för',
 	'LBL_STOCK_NOT_ENOUGH' => 'Otillräckligt lager',
 	'LBL_MAX_QTY_SELECT' => 'Högsta värde är',
-	'LBL_DRAG' => 'Släpande',
+	'LBL_DRAG' => 'Dra',
 	'LBL_TOTAL_TAX_AMOUNT' => 'Totalt taxeringsbelopp',
 	'LBL_DIRECT_AMOUNT_DISCOUNT' => 'Direkt rabattbelopp',
 	'LBL_FINAL_DISCOUNT_AMOUNT' => 'Slutgiltig rabattbelopp',
@@ -287,7 +287,7 @@ $languageStrings = array(
 	'LBL_CREATE' => 'Skapa',
 	'LBL_GENERATE' => 'Generera',
     'LBL_DUPLICATE' => 'Kopiera',
-	'Add Note' => 'Skapa Notering ',
+	'Add Note' => 'Skapa notering ',
 
 	//Dashboard String
 	'LBL_ADD_WIDGET' => 'Skapa widget',
@@ -313,7 +313,7 @@ $languageStrings = array(
 	'LBL_AT' => 'vid',
 	'LBL_MINE' => 'Min',
 	'History' => 'Historik',
-	'Upcoming Tasks' => 'Kommande uppgifter',
+	'Upcoming Tasks' => 'Kommande arbetsuppgifter',
 	'LBL_YEAR' => 'år',
 	'LBL_YEARS' => 'år',
 	'LBL_MONTH' => 'månad',
@@ -334,7 +334,7 @@ $languageStrings = array(
 	'LBL_HANDLER_NOT_FOUND' => 'Hanterare hittades inte',
 	'LBL_FILTER' => 'Filter',
 	'LBL_DUE' => 'förfaller',
-	'LBL_COMPLETED' => 'avklarade',
+	'LBL_COMPLETED' => 'avklarad',
 	'LBL_AGO' => 'sedan',
 	'LBL_CHANGED' => 'ändrad',
 	'Single_Users' => 'Användare',
@@ -346,7 +346,7 @@ $languageStrings = array(
 	'LBL_NOTEPAD' => 'Anteckningar',
 	'LBL_NOTEPAD_NAME' => 'Anteckningsnamn',
 	'LBL_NOTEPAD_CONTENT' => 'Anteckningsinnehåll',
-	'LBL_LAST_SAVED_ON' => 'sparade senast den',
+	'LBL_LAST_SAVED_ON' => 'sparades senast',
 	'Mini List' => 'Minilista',
 	'Notebook' => 'Anteckningsblock',
 	'LBL_RESULT_FOR_THE_TAG' => 'Resultat för taggen',
@@ -396,7 +396,7 @@ $languageStrings = array(
 	'LBL_OWNER' => 'Ägare',
 	'LBL_CREATED_ON' => 'Skapades',
 	'LBL_MODIFIED_ON' => 'Ändrades',
-	'LBL_MODIFIED' => 'Ändrades',
+	'LBL_MODIFIED' => 'Ändraded',
 
     //calender set-reminder
     'LBL_BEFORE_EVENT' => 'Innan händelse',
@@ -404,18 +404,18 @@ $languageStrings = array(
 	//Dashboard widgets
 	'Upcoming Activities' => 'Kommande aktiviteter',
 	'Overdue Activities' => 'Förfallna aktiviteter',
-	'Funnel' => 'Samla',
-	'Potentials by Stage' => 'Affärsmöjligheter efter nivå',
-	'Pipelined Amount' => 'Försäljning pipeline',
+	'Funnel' => 'Samling',
+	'Potentials by Stage' => 'Affärsmöjligheter efter stadie',
+	'Pipelined Amount' => 'Pipelined Amount',
 	'Total Revenue' => 'Summa intäkter',
 	'Top Potentials' => 'Bästa affärsmöjligheter',
 	'Forecast' => 'Prognos',
 	'Leads Created' => 'Leads skapade',
-	'Leads by Status' => 'Leads efter Status',
-	'Leads by Source' => 'Leads efter Källa',
+	'Leads by Status' => 'Leads efter status',
+	'Leads by Source' => 'Leads efter källa',
 	'Leads by Industry' => 'Leads efter industri',
 	'Tickets by Status' => 'Ärenden efter status',
-	'Open Tickets' => 'Öppna Ärenden',
+	'Open Tickets' => 'Öppna ärenden',
 	'Funnel Amount' => 'Samlingsmängd',
 
 	//Exports strings
@@ -455,7 +455,7 @@ $languageStrings = array(
 	'Chemicals'=>'Kemikalier',
 	'City' => 'Stad',
 
-	'Cold Call'=>'"Cold Call"',
+	'Cold Call'=>'Telefonförsäljning',
 	'Existing Customer'=>'Existerande kund',
 	'Self Generated'=>'Eget initiativ',
 	'Employee'=>'Anställd',
@@ -470,7 +470,7 @@ $languageStrings = array(
 
 	//for leads and accounts
 	'--None--'=>'--Inget--',
-	'Acquired'=>'Erhållen',
+	'Acquired'=>'Fullbordad',
 	'Active'=>'Aktiv',
 	'Market Failed'=>'Marknadsförlust',
 	'Project Cancelled'=>'Projekt upphävt',
@@ -554,7 +554,7 @@ $languageStrings = array(
 	'Tax1' => 'Taxering1',
 	'Tax2' => 'Taxering2',
 	'Tax3' => 'Taxering3',
-	'Excise Duty' => 'Punktskatter',
+	'Excise Duty' => 'Punktskatt',
 	'Total' => 'Totalt',
 	'Sub Total' => 'Delsumma',
 	'Tax Type' => 'Taxeringstyp',
@@ -752,12 +752,12 @@ $jsLanguageStrings = array(
 
 	//Validation Error Message
 	'JS_PLEASE_ENTER_VALID_EMAIL_ADDRESS' => 'Vänligen mata in en giltig e-postadress',
-	'JS_CONTAINS_ILLEGAL_CHARACTERS' => 'innehåller ogiltiga tecken',
-	'JS_PHONE_NUMBER_LENGTH_EXCEEDED' => 'telefonnummerslängd överskred gränsen',
+	'JS_CONTAINS_ILLEGAL_CHARACTERS' => 'Innehåller ogiltiga tecken',
+	'JS_PHONE_NUMBER_LENGTH_EXCEEDED' => 'För långt telefonnummer',
 	'JS_ACCEPT_POSITIVE_NUMBER' => 'Accepterar endast positiva tal',
 	'JS_VALUE_SHOULD_BE_GREATER_THAN_ZERO' => 'värdet bör vara större än noll',
     'JS_MASS_EDIT_LIMIT' => 'Mass Redigera operation kan göras på 500 eller mindre poster åt gången',
-	'JS_NUMBER_SHOULD_BE_LESS_THAN_32' => 'Nummer bör mindre än 32',
+	'JS_NUMBER_SHOULD_BE_LESS_THAN_32' => 'Nummer bör mindre vara än 32',
 	'JS_PLEASE_ENTER_VALID_DATE' => 'Ange giltigt datum',
 	'JS_PLEASE_ENTER_VALID_TIME' => 'Ange giltig tid',
 	'JS_INVALID_PAGE_NUMBER' => 'Ogiltigt sidnummer',
@@ -776,11 +776,11 @@ $jsLanguageStrings = array(
 	'LBL_MASS_DELETE_CONFIRMATION' => 'Är du säker på att du vill ta bort de markerade inläggen?',
 	'JS_LBL_SAVE' => 'Spara',
 	'JS_LBL_CANCEL' => 'Avbryt',
-	'JS_DUPLICTAE_CREATION_CONFIRMATION' => 'Organisationnamn finns redan. Vill du skapa dubblett?',
+	'JS_DUPLICTAE_CREATION_CONFIRMATION' => 'Organisationnamn finns redan. Vill du skapa kopia?',
 
 	'SHOULD_BE_LESS_THAN_TODAY' => 'Måste ske innan idag',
 	'JS_PLEASE_SELECT_ATLEAST_ONE_OPTION' => 'Välj minst ett alternativ',
-	'JS_SELECT_MODULE' => 'Vänligen på Välj Modul',
+	'JS_SELECT_MODULE' => 'Vänligen på välj en modul',
 	'JS_PLEASE_SELECT_ATLEAST_ONE_MANDATORY_FIELD' => 'Välj minst ett obligatoriskt fält',
 	'JS_PLEASE_ENTER_INTEGER_VALUE' => 'Vänligen mata in heltal',
 	'JS_PLEASE_ENTER_DECIMAL_VALUE' => 'Vänligen mata in decimaltal',
@@ -792,7 +792,7 @@ $jsLanguageStrings = array(
 	'JS_PERCENTAGE_VALUE_SHOULD_BE_LESS_THAN_100' => 'Procentvärdet ska vara mindre än 100',
 	'JS_ACCEPT_ONLY_NUMBER' => 'Accepterar endast siffror',
 	'JS_THIS_FILE_HAS_ALREADY_BEEN_SELECTED' => 'Denna fil har redan valts',
-	'JS_MAX_FILE_UPLOAD_EXCEEDS' => 'max fil uppladdning överskrider',
+	'JS_MAX_FILE_UPLOAD_EXCEEDS' => 'maximal filuppladdning överskrider',
 	'JS_THIS_DOCUMENT_HAS_ALREADY_BEEN_SELECTED' => 'Detta har redan bifogats',
     'JS_CURRENT_DATE' => 'Aktuellt datum',
 
@@ -803,15 +803,15 @@ $jsLanguageStrings = array(
 	//Import Translations
 	'JS_IMPORT_FILE_CAN_NOT_BE_EMPTY' => 'Importfil kan inte vara tomt',
 	'JS_PLEASE_SELECT_ONE_FIELD_FOR_MERGE' => 'Välj minst ett fält för att sammanfoga kriterier',
-	'JS_MAP_NAME_CAN_NOT_BE_EMPTY' => 'Mappnamn kan inte vara tom',
-	'JS_MAP_NAME_ALREADY_EXISTS' => 'Mapnamn finns redan',
+	'JS_MAP_NAME_CAN_NOT_BE_EMPTY' => 'Var god välj ett mappnamn',
+	'JS_MAP_NAME_ALREADY_EXISTS' => 'Mappnamn finns redan',
 	'JS_SELECT_FILE_EXTENSION' => 'Välj en fil med följande tillägg:',
-	'JS_UPLOADED_FILE_SIZE_SHOULD_BE_LESS_THAN' => 'Ladda upp fil storlek bör vara mindre än',
-	'JS_UPLOADED_FILE_SIZE_EXCEEDS' => 'Uppladdad filstorleken överskrider',
+	'JS_UPLOADED_FILE_SIZE_SHOULD_BE_LESS_THAN' => 'Filstorlek bör vara mindre än',
+	'JS_UPLOADED_FILE_SIZE_EXCEEDS' => 'Uppladdad filstorlek överskrider',
 	'JS_PLEASE_SPLIT_FILE_AND_IMPORT_AGAIN' => 'Vänligen dela upp filen i mindre filer och importera igen.',
 	'JS_FIELD_MAPPED_MORE_THAN_ONCE' => 'Fält mappas mer än en gång',
 	'JS_MAP_MANDATORY_FIELDS' => 'Vänligen mappa obligatoriska fält',
-	'JS_PLEASE_ENTER_SOME_VALUE' => 'Ange något värde att söka',
+	'JS_PLEASE_ENTER_SOME_VALUE' => 'Ange ett värde',
 
 	//Select2 elements validation message
 	'JS_YOU_CAN_SELECT_ONLY'=> 'Du kan endast välja',
@@ -826,10 +826,10 @@ $jsLanguageStrings = array(
 	'JS_IS_DISABLED' => 'är inaktiverad',
 
 	'JS_PLEASE_ENTER_SOME_TEXT_FOR_COMMENT' => 'Ange en text för kommentar',
-	'JS_LBL_COMMENT_VALUE_CANT_BE_EMPTY' => 'Kommentar värde kan inte vara tomt',
+	'JS_LBL_COMMENT_VALUE_CANT_BE_EMPTY' => 'Kommentarsfält kan inte vara tomt',
 	'JS_REQUIRED_FIELD' => '* Detta fält är obligatoriskt',
 	'JS_CAN_NOT_REMOVE_DEFAULT_WIDGET' => 'Kan inte ta bort förvald widget',
-	'JS_NO_CREATE_OR_NOT_QUICK_CREATE_ENABLED' => 'Ingen skapa behörigheter eller inte aktiverat för snabb skapa',
+	'JS_NO_CREATE_OR_NOT_QUICK_CREATE_ENABLED' => 'Ingen behörigheter eller så är snabbskapa inte aktiverat',
 
 	//Image Action
 	'LBL_IMAGE_DELETED_SUCCESSFULLY' => 'Bild raderades',
@@ -847,17 +847,17 @@ $jsLanguageStrings = array(
 	'JS_PLEASE_SELECT_AN_ACCOUNT_TO_COPY_ADDRESS' => 'Välj en organisation för att kopiera adressen',
 	'JS_PLEASE_SELECT_AN_CONTACT_TO_COPY_ADDRESS' => 'Välj en kontakt för att kopiera adressen',
 	'JS_SELECTED_ACCOUNT_DOES_NOT_HAVE_AN_ADDRESS' => 'Utvalda organisationen innehåller inte adressen för att kopiera',
-	'JS_SELECTED_CONTACT_DOES_NOT_HAVE_AN_ADDRESS' => 'Vald Kontakt innehåller inte adressen för att kopiera',
+	'JS_SELECTED_CONTACT_DOES_NOT_HAVE_AN_ADDRESS' => 'Vald kontakt innehåller inte adressen för att kopiera',
 	'JS_PLEASE_ENTER_PRIMARY_EMAIL_VALUE_TO_ENABLE_PORTAL_USER' => 'Ange primära e-postadress för att möjliggöra portalanvändare',
-	'JS_PRIMARY_EMAIL_FIELD_DOES_NOT_EXISTS' => 'Primärt E-post fältet finns inte att aktivera portalanvändare',
+	'JS_PRIMARY_EMAIL_FIELD_DOES_NOT_EXISTS' => 'Primärt e-post fält saknas',
 
 	//Tag Cloud validation messages
 	'JS_PLEASE_ENTER_A_TAG' => 'Mata in en tagg',
 	'JS_TAG_NAME_ALREADY_EXIST' => 'Tagg-namn finns redan',
 	'JS_MAX_TAG_LENGTH_EXCEEDS' => 'Tagg-längden överskrider maxlängd',
 
-	'JS_NO_VIEW_PERMISSION_AFTER_SAVE'=> 'Du kommer inte att ha behörighet till se denna post efter räddning. Skulle du vilja till fortsätta?',
-	'JS_NO_RECORDS_RELATED_TO_THIS_FILTER' => 'Inga Poster Relaterat till detta Filter',
+	'JS_NO_VIEW_PERMISSION_AFTER_SAVE'=> 'Du kommer inte att ha behörighet till att se detta inlägg efter sparning. Fortsätta?',
+	'JS_NO_RECORDS_RELATED_TO_THIS_FILTER' => 'Inga inlägg relaterat till detta filter',
 
 	// Calendar Reminder popup
 	'JS_START_DATE_TIME' => 'Startdatum & Tid',
@@ -885,12 +885,12 @@ $jsLanguageStrings = array(
 	'JS_MORE_THAN_ONE_ITEM_SELECTED' => 'Mer än en artikel vald',
 	'JS_ITEMS_DELETED_SUCCESSFULLY' => 'Artiklar raderades',
 	'JS_DUPLIACATE_ENTRIES_FOUND_FOR_THE_VALUE' => 'Dubbletter hittades för värdet',
-	'JS_SELECT_RECORDS_TO_MERGE_FROM_SAME_GROUP' => 'Du måste välja de poster i samma grupper för sammanfogning',
-	'JS_SELECT_ATLEAST_TWO_RECORD_FOR_MERGING' => 'Välj minst två journaler för sammanfogning',
-	'JS_ALLOWED_TO_SELECT_MAX_OF_THREE_RECORDS' => 'Du får tills välja högst tre poster',
+	'JS_SELECT_RECORDS_TO_MERGE_FROM_SAME_GROUP' => 'Välj grupper för sammanfogning',
+	'JS_SELECT_ATLEAST_TWO_RECORD_FOR_MERGING' => 'Välj minst två grupper för sammanfogning',
+	'JS_ALLOWED_TO_SELECT_MAX_OF_THREE_RECORDS' => 'Du får tills välja högst tre grupper',
 	//Notification message for dashboard widget delete
-	'JS_ARE_YOU_SURE_TO_DELETE_WIDGET' => 'Är du säker på tills radera widget',
-	'JS_DUPLICATE_ENTRIES_FOUND_FOR_THE_VALUE' => 'Dubbletter hittades för värdet',
+	'JS_ARE_YOU_SURE_TO_DELETE_WIDGET' => 'Är du säker på att radera widget?',
+	'JS_DUPLICATE_ENTRIES_FOUND_FOR_THE_VALUE' => 'Kopior hittades för',
 	'JS_TOTAL_RECORDS' => 'Totalt antal inlägg',
 	'JS_PAGE_NOT_EXIST' => 'Sida finns inte',
 	'JS_YOU_ARE_IN_PAGE_NUMBER' => 'Du är på sidnummer',
@@ -899,7 +899,7 @@ $jsLanguageStrings = array(
 	'JS_PLEASE_ENABLE_BASE_CURRENCY_FOR_PRODUCT' => 'Vänligen aktivera basvaluta för produkt',
 
 	//Delete Records message
-	'JS_RECORDS_ARE_GETTING_DELETED' => 'Poster håller på att raderas',
+	'JS_RECORDS_ARE_GETTING_DELETED' => 'Inlägg håller på att raderas',
 	'JS_RECORD_GETTING_DELETED' => 'Inlägg raderas',
 	'SINGLE_Vendors' => 'Leverantör',
 	
@@ -907,7 +907,7 @@ $jsLanguageStrings = array(
 	'JS_PLEASE_GIVE_YOUR_FEEDBACK' => 'Vänligen fyll din feedback',
 	
 	//For Print Templates
-    'JS_MAX_RECORDS_LIMIT' => 'Maximalt antal poster för urval är:',
+    'JS_MAX_RECORDS_LIMIT' => 'Maximalt antal mallar är:',
 	'JS_NONE' => 'Inga', //Todo Review
     
         //For PhoneCalls
@@ -920,30 +920,30 @@ $jsLanguageStrings = array(
     
         //Google Synchronization
         'SYNC_REMOVED_SUCCESSFULLY' => 'Google synkronisering bort framgångsrikt.',
-        'REMOVE_SYNCHRONIZATION_MESSAGE' => 'Genom att klicka på detta kommer att ta bort befintlig Gmail-autentisering. Det kommer inte att ta bort några poster som redan är synkroniserade.',
-        'REMOVE_SYNCHRONIZATION' => 'Avlägsna Synkronisering',
+        'REMOVE_SYNCHRONIZATION_MESSAGE' => 'Genom att klicka på detta kommer du att ta bort befintlig Gmail-autentisering. Det kommer inte att ta bort några inlägg som redan är synkroniserade.',
+        'REMOVE_SYNCHRONIZATION' => 'Ta bort synkronisering',
         'FIELD_MAPPING' => 'Fältmappning',
         'LBL_SYNC_BUTTON' => 'Synkronisera nu',
         'LBL_SYNCRONIZING' => 'Synkronisera ....',
         'LBL_NOT_SYNCRONIZED' => 'Du har inte synkroniserat ännu',
         'LBL_FIELD_MAPPING' => 'Fältmappning',
     
-        'LBL_RESTORE_CONFIRMATION' => 'Records som tidigare tilldelats denna användare kommer inte att återställas. Är du säker på att du vill återställa denna användare?',
-        'LBL_DELETE_USER_PERMANENT_CONFIRMATION' => 'Raderade denna användare kan inte återställas tillbaka. Är du säker på att du vill ta bort denna användare permanent?',
+        'LBL_RESTORE_CONFIRMATION' => 'Inlägg som tidigare tilldelats denna användare kommer inte att återställas. Är du säker på att du vill återställa denna användare?',
+        'LBL_DELETE_USER_PERMANENT_CONFIRMATION' => 'Raderading utav användare kan inte återställas. Är du säker på att du vill ta bort denna användare permanent?',
     
-        'LBL_LANGUAGE_LABEL_VALIDATION' => 'Etikett värdet kan inte vara tomt. Du måste ange något värde.',
+        'LBL_LANGUAGE_LABEL_VALIDATION' => 'Etikettfältet kan inte vara tomt.',
     	'JS_CHANGES_WILL_BE_LOST' => 'Dina ändringar kommer att gå förlorade!',
 		'JS_RECORD_DELETED' => 'Registrering utgår',
-    'JS_NO_DELETE_PERMISSION' => 'Ingen raderingstillstånd',
+    'JS_NO_DELETE_PERMISSION' => 'Inget raderingstillstånd',
     'JS_CONFIRM_MARK_AS_HELD' => 'Är du säker på att du vill markera händelse / uppgift som genomförd?',
-    'JS_TODO_MARKED_AS_COMPLETED' => 'Todo markerats som Avslutat',
-    'JS_EVENT_MARKED_AS_HELD' => 'Händelse markerats som Held',
-    'JS_FUTURE_EVENT_CANNOT_BE_MARKED_AS_HELD' => 'Framtida händelse kan inte markeras som genomförd',
+    'JS_TODO_MARKED_AS_COMPLETED' => 'Uppgift markerad som genomförd',
+    'JS_EVENT_MARKED_AS_HELD' => 'Händelse markerad som genomförd',
+    'JS_FUTURE_EVENT_CANNOT_BE_MARKED_AS_HELD' => 'Framtida händelse kan inte markeras som genomförda',
     'JS_PERMISSION_DENIED' => 'Åtkomst nekad',
     'LBL_SMS_MAX_CHARACTERS_ALLOWED' => 'Max 160 tecken är tillåtna för textmeddelande',
     'JS_VIEWNAME_ALERT' => 'Max 40 tecken är tillåtna för filternamn',
-    'JS_EXCEEDS_MAX_UPLOAD_SIZE' => 'Överskred max uppladdningsstorlek',
-	'JS_FUTURE_EVENT_CANNOT_BE_HELD' => 'Framtida händelse genomföras',
+    'JS_EXCEEDS_MAX_UPLOAD_SIZE' => 'Överskrider maximal uppladdningsstorlek',
+	'JS_FUTURE_EVENT_CANNOT_BE_HELD' => 'Framtida händelse kan inte genomföras',
 
     // ends
      
