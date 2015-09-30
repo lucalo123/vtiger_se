@@ -84,6 +84,7 @@ $languageStrings = array(
 	'LBL_FEEDBACK' => 'Feedback',
 	'LBL_CHAT_SUPPORT'=>'Chat Support',
 	'LBL_CRM_SETTINGS' => 'CRM-inställningar',
+	'LBL_MANAGE_USERS' => 'Hantera användare',
 	'LBL_ON_DEMAND_ADMIN' => 'Skapa / Radera användare',
 	'LBL_ANNOUNCEMENT' => 'Tillkännagivande',
 	'LBL_CALENDAR' => 'Kalender',
