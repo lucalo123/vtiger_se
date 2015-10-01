@@ -157,6 +157,7 @@ $languageStrings = array(
 	'LBL_RESET_TO_DEFAULT' => 'Återställ till förvald',
 	'LBL_SERVER_NAME' => 'Servernamn',
 	'LBL_USER_NAME' => 'Användarnamn',
+	'LBL_USER_IP_ADDRESS'=> 'IP-Adress',
 	'LBL_PASSWORD' => 'Lösenord',
 	'LBL_FROM_EMAIL' => 'Från e-post',
 	'LBL_REQUIRES_AUTHENTICATION' => 'Kräver autentisering',
@@ -205,6 +206,7 @@ $languageStrings = array(
 	//Company Details
 	'organizationname' => 'Företagsnamn',
 	'logoname' => 'Företagslogo',
+	'LoginHistory' => 'Inloggningshistorik',
 	'address' => 'Adress',
 	'city' => 'Stad',
 	'state' => 'Län',
@@ -230,7 +232,10 @@ $languageStrings = array(
     'LBL_RUNNING' => 'Kör',
     'LBL_LAST_SCAN_TIMED_OUT' => 'Senaste genomsökningen tog för lång tid',
     'LBL_LAST_SCAN_AT' => 'Senaste genomsökningen skedde ',
-    'LBL_TIME_TAKEN' => ' tid det tog',
+	'LBL_LOGGED_OUT_TIME' => 'Tid utloggad',
+	'LBL_LOGIN_TIME' => 'Tid inloggad',
+	'LBL_LOGIN_HISTORY_DETAILS' => 'Inloggningshistorik',
+	'LBL_TIME_TAKEN' => ' tid det tog',
     'LBL_SHORT_SECONDS' => 'sek',
 	
 	//Email Templates
