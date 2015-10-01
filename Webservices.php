@@ -9,9 +9,9 @@
  * All Rights Reserved.
  * *********************************************************************************** */
 $languageStrings = array(
-    'Invalid value given for old password.' => 'Ogiltigt värde ges för gamla lösenordet.',
-    "New Password and confirm password don't match" => 'Nytt lösenord och bekräfta lösenordet matchar inte',
-    'Database error while performing requested operation' => 'Databas fel när de utför begärda operationen',
+    'Invalid value given for old password.' => 'Ogiltigt värde för gamla lösenordet.',
+    "New Password and confirm password don't match" => 'Nytt lösenord och konfirmering matchar inte',
+    'Database error while performing requested operation' => 'Databasfel vid utförd begärdan',
     'Failed to change password' => 'Det gick inte att byta lösenord',
 );
 

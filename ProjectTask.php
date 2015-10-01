@@ -12,7 +12,7 @@ $languageStrings = array(
 	'SINGLE_ProjectTask' => 'Projektuppgift',
 	'LBL_ADD_RECORD' => 'Skapa projektppgift',
 	'LBL_RECORDS_LIST' => 'Projektuppgifter',
-    'LBL_MILESTONES_LIST'=>'Milstolpar',
+    'LBL_MILESTONES_LIST'=>'Målsättningar',
 
 	// Blocks
 	'LBL_PROJECT_TASK_INFORMATION' => 'Projektuppgift information',

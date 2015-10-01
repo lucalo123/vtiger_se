@@ -14,7 +14,7 @@ $languageStrings = array(
 	// Basic Strings
 	'Settings' => 'Inställningar',
 	'LBL_SEARCH_SETTINGS_PLACEHOLDER' => 'Sökinställningar',
-	'LBL_SUMMARY' => 'Summering',
+	'LBL_SUMMARY' => 'Översikt',
 	'LBL_ACTIVE_USERS' => 'Aktiva användare',
 	'LBL_WORKFLOWS_ACTIVE' => 'Aktiva arbetsflöden',
 	'LBL_MODULES' => 'Moduler',
@@ -78,7 +78,7 @@ $languageStrings = array(
 	'LBL_TAX_SETTINGS' => 'Taxeringsinställningar',
 	'LBL_TAX_DESCRIPTION' => 'Hantera taxeringsuppgifter',
 
-	'LBL_MAIL_SERVER_SETTINGS' => 'Utgående Server',
+	'LBL_MAIL_SERVER_SETTINGS' => 'Utgående server',
 	'LBL_MAIL_SERVER_DESCRIPTION' => 'Konfigurera Utgående uppgifter för e-postserver',
 
 	'INVENTORYTERMSANDCONDITIONS' => 'Inventering: villkor',
@@ -119,7 +119,7 @@ $languageStrings = array(
 	'Allows you to Configure Cron Task' => 'Låter dig konfigurera schmelagda uppgifter',
 
 	'Webforms' => 'Webbformulär',
-	'Allows you to manage Webforms' => 'Hantera webbformulär',
+	'Allows you to manage Webforms' => 'Hanterar webbformulär',
 	'LBL_CREATING_NEW' => 'Skapar ny',
 	'LBL_EDITING' => 'Redigerar',
 	'LBL_EDIT_RECORD' => 'Redigera',
@@ -181,8 +181,8 @@ $languageStrings = array(
 	'LBL_WORLD_CLOCK_DISPLAY' => 'Världsklockavy',
 	'LBL_CALCULATOR_DISPLAY' => 'KalkylatorVy',
 	'LBL_USE_RTE' => 'Använd RTE',
-	'LBL_HELPDESK_SUPPORT_EMAILID' => 'HelpDesk support e-postID',
-	'LBL_HELPDESK_SUPPORT_NAME' => 'HelpDesk supportnamn',
+	'LBL_HELPDESK_SUPPORT_EMAILID' => 'Ärendehantering support e-postID',
+	'LBL_HELPDESK_SUPPORT_NAME' => 'Ärendehantering supportnamn',
 	'LBL_MAX_UPLOAD_SIZE' => 'Maximal uppladdningsstorlek (Max 5MB)',
 	'LBL_MAX_HISTORY_VIEWED' => 'Maximal historik som visats',
 	'LBL_DEFAULT_MODULE' => 'Förvald modul',

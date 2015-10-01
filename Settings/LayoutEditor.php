@@ -61,7 +61,7 @@ $languageStrings = array(
 	'MultiSelectCombo'=>'Multi-Select Combo Box',
 	'URL' => 'URL',
 	'Checkbox' => 'Kryssruta',
-	'TextArea' => 'Text Area',
+	'TextArea' => 'Textarea',
 	'Skype'=>'Skype',
 	'Time'=>'Tid',
 );

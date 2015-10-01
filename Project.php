@@ -10,9 +10,9 @@
 $languageStrings = array(
 	// Basic Strings
 	'SINGLE_Project' => 'Projekt',
-	'LBL_ADD_RECORD' => 'Skapa Project',
+	'LBL_ADD_RECORD' => 'Nytt Projekt',
 	'LBL_RECORDS_LIST' => 'Projektlista',
-    'LBL_MILESTONES_LIST'=>'Milstolpar',
+    'LBL_MILESTONES_LIST'=>'Målsättningar',
 
 	// Blocks
 	'LBL_PROJECT_INFORMATION' => 'Projektuppgifter',

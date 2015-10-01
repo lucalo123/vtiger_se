@@ -18,7 +18,7 @@ $languageStrings = array(
     // Common Actions
     'LBL_SELECT_ALL' => 'Markera alla',
     'LBL_SELECT_TO_LOAD_LIST' => 'Markera för att ladda lista',
-    'LBL_CREATING_NEW' => 'Skapa ny',
+    'LBL_CREATING_NEW' => 'Skapa nytt',
     'LBL_EDITING' => 'Redigera',
     'LBL_SAVE' => 'Spara',
     'LBL_CANCEL' => 'Avbryt',
@@ -35,7 +35,7 @@ $languageStrings = array(
     'LBL_ADD_COMMENT' => 'Skapa kommentar',
     'LBL_EDIT_FIELDS' => 'Redigera fält',
     'LBL_EDIT_WORKFLOWS' => 'Redigera arbetsflöden',
-    'LBL_EDIT_PICKLIST_VALUES' => 'Redigera plocklistevärden',
+    'LBL_EDIT_PICKLIST_VALUES' => 'Redigera plocklista',
     'LBL_EDIT_MAILSCANNER' => 'Redigera e-postskanner',
     'LBL_RECORD_DELETE' => 'Inlägg raderades.',
     'LBL_RECORD_NOT_FOUND' => 'Inlägg hittades ej',
@@ -61,16 +61,16 @@ $languageStrings = array(
     'LBL_FOUND' => 'Hittade',
     'LBL_CLICK_ADD' => 'Klicka skapa',
     'LBL_ADD_MORE_FIELDS' => 'Skapa fler fält',
-    'LBL_ADD_NOTE' => 'Skapa Notering',
-    'LBL_CREATE_NEW' => 'Skapa Ny',
-    'LBL_ADD_EVENT' => 'Skapa Händelse',
-    'LBL_ADD_TASK' => 'Skapa Uppgift',
+    'LBL_ADD_NOTE' => 'Skapa notering',
+    'LBL_CREATE_NEW' => 'Skapa ny',
+    'LBL_ADD_EVENT' => 'Skapa händelse',
+    'LBL_ADD_TASK' => 'Skapa uppgift',
     'LBL_MARKETING_AND_SALES' => 'Marknadsföring & Försäljning',
     'LBL_TOOLS_HEADER' => 'Verktyg',
     'LBL_SUPPORT' => 'Support',
     'LBL_INVENTORY' => 'Inventarier',
     'LBL_ANALYTICS' => 'Analyser',
-    'LBL_HOME' => 'Hem',
+    'LBL_HOME' => 'Startsida',
 
     // Common Link Labels
     'LBL_LAST_VIEWED_RECORDS' => 'Senast visade inlägg',
@@ -83,14 +83,14 @@ $languageStrings = array(
     'LBL_VIDEO_TUTORIAL' => 'Videomanual',
     'LBL_FEEDBACK' => 'Feedback',
     'LBL_CHAT_SUPPORT' => 'Chattsupport',
-    'LBL_CRM_SETTINGS' => 'CRM-inställningar',
+    'LBL_CRM_SETTINGS' => 'Vtigers inställningar',
     'LBL_MANAGE_USERS' => 'Hantera användare',
     'LBL_ON_DEMAND_ADMIN' => 'Skapa / Radera användare',
     'LBL_ANNOUNCEMENT' => 'Tillkännagivande',
     'LBL_CALENDAR' => 'Kalender',
     'LBL_POST' => 'Inlägg',
     'LBL_GUIDER' => 'Guider',
-    'LBL_DISPLAY_TYPE' => 'Visa Typ',
+    'LBL_DISPLAY_TYPE' => 'Visa typ',
     'LBL_DISPLAY_WIDETYPE' => 'Bred',
     'LBL_DISPLAY_MEDIUMTYPE' => 'Medium',
     'LBL_DISPLAY_NARROWTYPE' => 'Smal',
@@ -181,7 +181,7 @@ $languageStrings = array(
 
     //Basic String Translation
     'LBL_ADD_RECORD' => 'Skapa inlägg',
-    'LBL_RECENTLY_MODIFIED' => 'Senaste uppdateringar',
+    'LBL_RECENTLY_MODIFIED' => 'Senast uppdaterat',
     'LBL_RECORDS_LIST' => 'Inläggslista',
     'LBL_RECORD_SUMMARY' => 'Inlägg summering',
     'LBL_ACCESS_DENIED_FOR' => 'Åtkomst nekad för',
@@ -404,6 +404,8 @@ $languageStrings = array(
     //Dashboard widgets
     'Upcoming Activities' => 'Kommande aktiviteter',
     'Overdue Activities' => 'Förfallna aktiviteter',
+    'Key Metrics' => 'Mätningar',
+    'Tag Cloud' => 'Molnetiketter',
     'Funnel' => 'Samling',
     'Potentials by Stage' => 'Affärsmöjligheter efter stadie',
     'Pipelined Amount' => 'Pipelined Amount',
@@ -638,7 +640,7 @@ $languageStrings = array(
 
     //Translations used in inventory moduls för address
     'HelpDesk' => 'Ärenden',
-    'LBL_TAG_CLOUD' => 'Tagga molnet',
+    'LBL_TAG_CLOUD' => 'Molnetikett',
 
     'LBL_NO_RECORDS' => 'Inga inlägg',
     'LBL_NO_RELATED' => 'Inga relaterade',
@@ -652,7 +654,7 @@ $languageStrings = array(
 
     //Module Manager
     'LBL_TOOLTIP' => 'Tooltip',
-    'LBL_MODULE_SEQUENCE_NUMBERING' => 'Modulsekvensnumrering',
+    'LBL_MODULE_SEQUENCE_NUMBERING' => 'Redigera modulsekvens',
     'LBL_CUSTOM_FIELD_MAPPING' => 'Anpassad fältmappning',
     'LBL_WEBFORMS' => 'Webbformulär',
 
@@ -733,7 +735,7 @@ $languageStrings = array(
     'LBL_SMS_MAX_CHARACTERS_ALLOWED' => 'Max 160 tecken är tillåtna för textmeddelande',
     'LBL_MARK_AS_HELD' => 'Markera som genomförd',
     'LBL_HIDE_COMPLETED_EVENTS' => 'Göm avslutade händelser',
-    'LBL_SETUP_WEBFORMS' => 'Ställ in webbformulär',
+    'LBL_SETUP_WEBFORMS' => 'Redigera webbformulär',
 
     'LBL_CONVERSION_RATE' => 'Omvandlingshastighet',
     //Patch provided by http://trac.vtiger.com/cgi-bin/trac.cgi/ticket/7884
@@ -852,9 +854,9 @@ $jsLanguageStrings = array(
     'JS_PRIMARY_EMAIL_FIELD_DOES_NOT_EXISTS' => 'Primärt e-post fält saknas',
 
     //Tag Cloud validation messages
-    'JS_PLEASE_ENTER_A_TAG' => 'Mata in en tagg',
-    'JS_TAG_NAME_ALREADY_EXIST' => 'Tagg-namn finns redan',
-    'JS_MAX_TAG_LENGTH_EXCEEDS' => 'Tagg-längden överskrider maxlängd',
+    'JS_PLEASE_ENTER_A_TAG' => 'Mata in en etikett',
+    'JS_TAG_NAME_ALREADY_EXIST' => 'Etikettnamn finns redan',
+    'JS_MAX_TAG_LENGTH_EXCEEDS' => 'Längden överskrider maxlängd',
 
     'JS_NO_VIEW_PERMISSION_AFTER_SAVE' => 'Du kommer inte att ha behörighet till att se detta inlägg efter sparning. Fortsätta?',
     'JS_NO_RECORDS_RELATED_TO_THIS_FILTER' => 'Inga inlägg relaterat till detta filter',

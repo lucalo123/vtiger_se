@@ -9,20 +9,22 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'SINGLE_ProjectMilestone' => 'Projektmilstolpe',
-	'LBL_ADD_RECORD' => 'Skapa milstolpe',
+	'SINGLE_ProjectMilestone' => 'Projektmålsättning',
+	'LBL_ADD_RECORD' => 'Ny mälsättning',
 	'LBL_RECORDS_LIST' => 'Inlägg',
     'LBL_PROJECTS_LIST' => 'Projektlista',
 	'LBL_TASKS_LIST' => 'Uppgifter',
-    'LBL_MILESTONES_LIST' => 'Milstolpar',
+    'LBL_MILESTONES_LIST' => 'Målsättningar',
 
 	// Blocks
-	'LBL_PROJECT_MILESTONE_INFORMATION' => 'Projektmilstolpe information',
+	'LBL_PROJECT_MILESTONE_INFORMATION' => 'Projektmålsättningsinformation',
 	
 	//Field Labels
-	'Project Milestone Name' => 'Namn',
-	'Milestone Date' => 'Milstolpe datum',
+	'Project Milestone Name' => 'Titel',
+	'Milestone Date' => 'Målsättning datum',
 	'Project Milestone No' => 'Nummer',
+	'description' => 'Beskrivning',
+	'Related to' => 'Relaterade till',
 	//picklist values
 	'administrative' => 'Administrativ',
     'operative' => 'Aktiv',

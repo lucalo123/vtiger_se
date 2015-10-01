@@ -9,7 +9,7 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'HelpDesk' => 'Ärendehantering',
+	'HelpDesk' => 'Ärendehanteringar',
 	'SINGLE_HelpDesk' => 'Ärende',
 	'LBL_ADD_RECORD' => 'Skapa ärende',
 	'LBL_RECORDS_LIST' => 'Ärenden',
