@@ -749,7 +749,9 @@ $languageStrings = array(
     'Terms &amp; Condiations' => 'Villkor & Avtal',
     // Modified 2015-10-1 Niclas Pallin
     'Project Milestone Name' => 'Titel',
-    'Milestone Date' => 'Målsättning datum'
+    'Milestone Date' => 'Målsättning datum',
+    'yes' => 'Ja',
+    'no' => 'Nej'
 );
 
 $jsLanguageStrings = array(
@@ -908,6 +910,7 @@ $jsLanguageStrings = array(
     //Delete Records message
     'JS_RECORDS_ARE_GETTING_DELETED' => 'Inlägg håller på att raderas',
     'JS_RECORD_GETTING_DELETED' => 'Inlägg raderas',
+    'JS_REENTER_PASSWORDS' => 'Ange lösenord igen',
     'SINGLE_Vendors' => 'Leverantör',
 
     //Feedback on removing old version

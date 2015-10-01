@@ -8,6 +8,7 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
+	'UsersOnline' => 'Inloggade användare',
 	'Users Online' => 'Inloggade användare',
 	// Basic Strings
 	'LBL_RECORDS_LIST' => 'Inloggade användare',
