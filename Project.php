@@ -41,7 +41,7 @@ $languageStrings = array(
 	//Related List
 	'LBL_CHARTS' => 'Diagram',
 	'LBL_TASKS_LIST' => 'Uppgifter',
-	'LBL_MILESTONES' => 'Milstolpar',
+	'LBL_MILESTONES' => 'Målsättningar',
 	'LBL_TASKS' => 'Uppgifter',
 	'LBL_STATUS_IS' => 'Status är',
 	'LBL_STATUS' => 'Status',

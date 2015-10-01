@@ -35,8 +35,8 @@ $languageStrings = array(
 	'Visibility' => 'Synlighet',
 
 	//Patch provided by http://trac.vtiger.com/cgi-bin/trac.cgi/ticket/7884
-	'End Date &amp; Time' => 'Slut datum & tid',
-	'Start Date &amp; Time'=>'Start datum & tid',
+	'End Date &amp; Time' => 'Slutdatum',
+	'Start Date &amp; Time'=>'Startdatum',
 
 	// Priority picklist
 	'High' => 'Hög',

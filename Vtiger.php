@@ -18,7 +18,7 @@ $languageStrings = array(
     // Common Actions
     'LBL_SELECT_ALL' => 'Markera alla',
     'LBL_SELECT_TO_LOAD_LIST' => 'Markera för att ladda lista',
-    'LBL_CREATING_NEW' => 'Skapa nytt',
+    'LBL_CREATING_NEW' => 'Ny',
     'LBL_EDITING' => 'Redigera',
     'LBL_SAVE' => 'Spara',
     'LBL_CANCEL' => 'Avbryt',
@@ -58,7 +58,8 @@ $languageStrings = array(
     //SEND EMAIL translations
     'LBL_GO_TO_FULL_FORM' => 'Gå till stora formuläret',
     'LBL_SEND_SMS' => 'Skicka SMS',
-    'LBL_FOUND' => 'Hittade',
+    'LBL_FOUND' => 'hittades',
+    'LBL_EQ_ZERO' => 'Inga',
     'LBL_CLICK_ADD' => 'Klicka skapa',
     'LBL_ADD_MORE_FIELDS' => 'Skapa fler fält',
     'LBL_ADD_NOTE' => 'Skapa notering',
@@ -83,12 +84,12 @@ $languageStrings = array(
     'LBL_VIDEO_TUTORIAL' => 'Videomanual',
     'LBL_FEEDBACK' => 'Feedback',
     'LBL_CHAT_SUPPORT' => 'Chattsupport',
-    'LBL_CRM_SETTINGS' => 'Vtigers inställningar',
+    'LBL_CRM_SETTINGS' => 'CRM-inställningar',
     'LBL_MANAGE_USERS' => 'Hantera användare',
     'LBL_ON_DEMAND_ADMIN' => 'Skapa / Radera användare',
     'LBL_ANNOUNCEMENT' => 'Tillkännagivande',
     'LBL_CALENDAR' => 'Kalender',
-    'LBL_POST' => 'Inlägg',
+    'LBL_POST' => 'Skicka',
     'LBL_GUIDER' => 'Guider',
     'LBL_DISPLAY_TYPE' => 'Visa typ',
     'LBL_DISPLAY_WIDETYPE' => 'Bred',
@@ -142,7 +143,7 @@ $languageStrings = array(
     'LBL_SIMPLE_FORM' => 'Enkelt formulär',
 
     //Recent Comments
-    'LBL_ADD_YOUR_COMMENT_HERE' => 'Lägg till dina kommentarer här...',
+    'LBL_ADD_YOUR_COMMENT_HERE' => 'Lägg till kommentar...',
     'LBL_REASON_FOR_CHANGING_COMMENT' => 'Anledning för ändring av kommentar',
     'LBL_REPLY' => 'Svara',
     'LBL_VIEW_THREAD' => 'Granska tråd',
@@ -183,7 +184,7 @@ $languageStrings = array(
     'LBL_ADD_RECORD' => 'Skapa inlägg',
     'LBL_RECENTLY_MODIFIED' => 'Senast uppdaterat',
     'LBL_RECORDS_LIST' => 'Inläggslista',
-    'LBL_RECORD_SUMMARY' => 'Inlägg summering',
+    'LBL_RECORD_SUMMARY' => 'Sammanfattning',
     'LBL_ACCESS_DENIED_FOR' => 'Åtkomst nekad för',
     'LBL_GO_BACK' => 'Tillbaka',
     'LBL_NO_DATA_AVAILABLE' => 'Ingen data tillgänglig',
@@ -295,7 +296,7 @@ $languageStrings = array(
     'LBL_REFRESH' => 'Uppdatera',
     'LBL_CLOSE' => 'Stäng',
     'LBL_ALL' => 'Alla',
-    'LBL_UPDATED' => 'Uppdaterad',
+    'LBL_UPDATED' => 'uppdaterade',
     'LBL_FROM' => 'från',
     'LBL_TO' => 'till',
     'LBL_to' => 'till',
@@ -309,7 +310,7 @@ $languageStrings = array(
     'LBL_RESTORED' => 'återställde',
     'LBL_COMMENTED' => 'kommenterade',
     'LBL_REMOVED' => 'tog bort',
-    'LBL_REMOVE' => 'radera',
+    'LBL_REMOVE' => 'Radera',
     'LBL_AT' => 'vid',
     'LBL_MINE' => 'Min',
     'History' => 'Historik',
@@ -590,7 +591,7 @@ $languageStrings = array(
     'Product Name' => 'Produktnamn',
     'Rating' => 'Gradering',
 
-    'Related To' => 'Relaterade till',
+    'Related To' => 'Relaterad till',
     'Type' => 'Typ',
 
     'Reviewed' => 'Granskad',
@@ -607,7 +608,7 @@ $languageStrings = array(
     'LBL_BLANK' => '-Tom-',
 
     //PageTitle translations
-    'LBL_VTIGER_CRM_HONEST_OPEN_SOURCE' => 'vtiger CRM Open Source',
+    'LBL_VTIGER_CRM_HONEST_OPEN_SOURCE' => 'Vtiger CRM Open Source',
 
     //Translations used in inventory moduls för sopy address
     'SINGLE_Accounts' => 'Organisationer',
@@ -719,19 +720,19 @@ $languageStrings = array(
     //Feedback on removing old version
     'LBL_OLD_VERSION_REMOVED_SOON' => 'Viktigt om äldre version',
     'LBL_FEEDBACK_ON_REMOVING_OLD_VERSION' => 'Vi är glada att dela det gamla utseendet kommer att finnas tillgänglig fram till februari 2014. Vi har lagt till följande funktioner till det nya utseendet nyligen <br><br> 1. Pivot Rapporter <br> 2. Anpassade Topplista <br> 3. Snabbsök in listor <br><br> Om du har förslag på nytt utseende, vänligen dela med oss ​​nedan.',
-    'LBL_FEEDBACK_PLACEHOLDER' => 'Dela dina förslag här ..',
+    'LBL_FEEDBACK_PLACEHOLDER' => 'Dela förslag...',
     'LBL_SUBMIT_FEEDBACK' => 'Skicka feedback',
     'LBL_DONT_SHOW_AGAIN' => 'Visa inte detta igen',
     'LBL_CONTINUE_TO_OLD_LOOK' => 'Fortsätt till äldre utseende',
 
     //PrintTemplate Links
-    'Print' => 'Skriv ut / Export som PDF',
+    'Print' => 'Skriv ut / Exportera till PDF',
     'Print Templates' => 'Utskriftsmallar',
 
     'LBL_TRANSFER_OWNERSHIP' => 'Överför äganderätten',
 
     //Products Popup View
-    'NOT_A_BUNDLE' => 'Inte en bunt',
+    'NOT_A_BUNDLE' => 'Obuntad',
     'LBL_SMS_MAX_CHARACTERS_ALLOWED' => 'Max 160 tecken är tillåtna för textmeddelande',
     'LBL_MARK_AS_HELD' => 'Markera som genomförd',
     'LBL_HIDE_COMPLETED_EVENTS' => 'Göm avslutade händelser',
@@ -744,7 +745,10 @@ $languageStrings = array(
 
     'Users' => 'Användare',
     'Service Requests' => 'Service efterfrågan',
-    'Terms &amp; Condiations' => 'Villkor & Avtal'
+    'Terms &amp; Condiations' => 'Villkor & Avtal',
+    // Modified 2015-10-1 Niclas Pallin
+    'Project Milestone Name' => 'Titel',
+    'Milestone Date' => 'Målsättning datum'
 );
 
 $jsLanguageStrings = array(
@@ -850,7 +854,7 @@ $jsLanguageStrings = array(
     'JS_PLEASE_SELECT_AN_CONTACT_TO_COPY_ADDRESS' => 'Välj en kontakt för att kopiera adressen',
     'JS_SELECTED_ACCOUNT_DOES_NOT_HAVE_AN_ADDRESS' => 'Utvalda organisationen innehåller inte adressen för att kopiera',
     'JS_SELECTED_CONTACT_DOES_NOT_HAVE_AN_ADDRESS' => 'Vald kontakt innehåller inte adressen för att kopiera',
-    'JS_PLEASE_ENTER_PRIMARY_EMAIL_VALUE_TO_ENABLE_PORTAL_USER' => 'Ange primära e-postadress för att möjliggöra portalanvändare',
+    'JS_PLEASE_ENTER_PRIMARY_EMAIL_VALUE_TO_ENABLE_PORTAL_USER' => 'Ange primära e-postadress för att aktivera portalanvändare',
     'JS_PRIMARY_EMAIL_FIELD_DOES_NOT_EXISTS' => 'Primärt e-post fält saknas',
 
     //Tag Cloud validation messages
@@ -862,8 +866,8 @@ $jsLanguageStrings = array(
     'JS_NO_RECORDS_RELATED_TO_THIS_FILTER' => 'Inga inlägg relaterat till detta filter',
 
     // Calendar Reminder popup
-    'JS_START_DATE_TIME' => 'Startdatum & Tid',
-    'JS_END_DATE_TIME' => 'Slutdatum & Tid',
+    'JS_START_DATE_TIME' => 'Startdatum',
+    'JS_END_DATE_TIME' => 'Slutdatum',
     'JS_POSTPONE' => 'Skjut upp',
     'JS_MESSAGE' => 'Meddelande',
 
@@ -883,7 +887,7 @@ $jsLanguageStrings = array(
     //PickList
     'JS_ITEM_RENAMED_SUCCESSFULLY' => 'Artikel omdöpt',
     'JS_ITEM_ADDED_SUCCESSFULLY' => 'Artikel tillagd',
-    'JS_NO_ITEM_SELECTED' => 'Inga artiklar valda',
+    'JS_NO_ITEM_SELECTED' => 'Ingen artikel vald',
     'JS_MORE_THAN_ONE_ITEM_SELECTED' => 'Mer än en artikel vald',
     'JS_ITEMS_DELETED_SUCCESSFULLY' => 'Artiklar raderades',
     'JS_DUPLIACATE_ENTRIES_FOUND_FOR_THE_VALUE' => 'Dubbletter hittades för värdet',

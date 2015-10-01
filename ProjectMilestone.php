@@ -9,8 +9,9 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
+	'Project Milestones' => 'Projektmålsättningar',
 	'SINGLE_ProjectMilestone' => 'Projektmålsättning',
-	'LBL_ADD_RECORD' => 'Ny mälsättning',
+	'LBL_ADD_RECORD' => 'Ny målsättning',
 	'LBL_RECORDS_LIST' => 'Inlägg',
     'LBL_PROJECTS_LIST' => 'Projektlista',
 	'LBL_TASKS_LIST' => 'Uppgifter',

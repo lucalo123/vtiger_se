@@ -9,6 +9,7 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
+    'Project Tasks' => 'Projektuppgifter',
 	'SINGLE_ProjectTask' => 'Projektuppgift',
 	'LBL_ADD_RECORD' => 'Skapa projektppgift',
 	'LBL_RECORDS_LIST' => 'Projektuppgifter',
