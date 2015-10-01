@@ -19,6 +19,7 @@ $languageStrings = array(
 	'LBL_CALENDAR_SETTINGS' => 'Kalenderinställningar',
 	'LBL_CALENDAR_SHARING' => 'Kalenderdelning',
 	'LBL_DEFAULT_EVENT_DURATION' => 'Förvalt händelseförlopp',
+	'LBL_DEFAULT_STATUS_TYPE' => 'Förval status & typ',
 	'LBL_CALL' => 'Samtal',
 	'LBL_OTHER_EVENTS' => 'Andra händelser',
 	'LBL_MINUTES' => 'Minuter',
@@ -122,8 +123,8 @@ $languageStrings = array(
 	'Calendar Hour Format' => 'Kalender i timformat',
 	'Time Zone' => 'Tidszon',
 	'Default Activity View' => 'Förval synliga aktiviteter',
-	'Popup Reminder Interval' => 'Popuppåminnelse intervall',
-	'Selected Users' => 'Valda användare'
+	//'Popup Reminder Interval' => 'Popuppåminnelse intervall',
+	'Selected Users' => 'Välj användare'
 );
 
 $jsLanguageStrings = array(

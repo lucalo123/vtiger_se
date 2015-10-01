@@ -304,7 +304,7 @@ $languageStrings = array(
     'LBL_OF' => 'av',
     'LBL_BY' => 'av',
     'LBL_ADDED' => 'tillade',
-    'LBL_FOR' => 'För',
+    'LBL_FOR' => 'till',
     'LBL_CREATED' => 'tillade',
     'LBL_DELETED' => 'tog bort',
     'LBL_RESTORED' => 'återställde',
@@ -321,7 +321,7 @@ $languageStrings = array(
     'LBL_MONTHS' => 'månader',
     'LBL_DAY' => 'dag',
     'LBL_DAYS' => 'dagar',
-    'LBL_HOUR' => 'timme',
+    'LBL_HOUR' => 'timmar',
     'LBL_HOURS' => 'timmar',
     'LBL_MINUTE' => 'minut',
     'LBL_MINUTES' => 'minuter',
@@ -592,6 +592,7 @@ $languageStrings = array(
     'Rating' => 'Gradering',
 
     'Related To' => 'Relaterad till',
+    'Reminder Interval' => 'Påminnelseintervall',
     'Type' => 'Typ',
 
     'Reviewed' => 'Granskad',
@@ -735,7 +736,7 @@ $languageStrings = array(
     'NOT_A_BUNDLE' => 'Obuntad',
     'LBL_SMS_MAX_CHARACTERS_ALLOWED' => 'Max 160 tecken är tillåtna för textmeddelande',
     'LBL_MARK_AS_HELD' => 'Markera som genomförd',
-    'LBL_HIDE_COMPLETED_EVENTS' => 'Göm avslutade händelser',
+    'LBL_HIDE_COMPLETED_EVENTS' => 'Dölj genomförda händelser',
     'LBL_SETUP_WEBFORMS' => 'Redigera webbformulär',
 
     'LBL_CONVERSION_RATE' => 'Omvandlingshastighet',
