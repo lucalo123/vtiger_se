@@ -25,9 +25,9 @@ $languageStrings = array(
 	'LBL_DUPLICATE_RECORD' => 'Kopiera profil',
 	'LBL_DELETE_RECORD' => 'Radera profil',
 	
-	'LBL_VIEW_PRVILIGE' => 'Vyprivilegie',
-	'LBL_EDIT_PRVILIGE' => 'Skapa / Redigera',
-	'LBL_DELETE_PRVILIGE' => 'Radera privilegie',
+	'LBL_VIEW_PRIVILEGE' => 'Vyprivilegie',
+	'LBL_EDIT_PRVILEGE' => 'Skapa / Redigera',
+	'LBL_DELETE_PRIVILIGE' => 'Radera privilegie',
 	'LBL_INIVISIBLE' => 'Osynlig',
 	'LBL_READ_ONLY' => 'Endast läsrättigheter',
 	'LBL_WRITE' => 'Läs- och skrivrättigheter',

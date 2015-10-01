@@ -48,7 +48,7 @@ $languageStrings = array(
 	'USERGROUPLIST' => 'Grupper',
 	'LBL_GROUP_DESCRIPTION' => 'Hantera för olika typer av Grupper baserat på Roller, användare och profiler',
 
-	'LBL_SHARING_ACCESS' => 'Dela Åtkomst',
+	'LBL_SHARING_ACCESS' => 'Delad åtkomst',
 	'LBL_SHARING_ACCESS_DESCRIPTION' => 'Hantera delningsregler för modul',
 
 	'LBL_WORKFLOW_LIST' => 'Arbetsflödeslista',

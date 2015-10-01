@@ -27,6 +27,11 @@ $languageStrings = array(
 	'SINGLE_Groups' => 'Grupp',
 	'SINGLE_Roles' => 'Roller',
 	'SINGLE_RoleAndSubordinates' => 'Roll och underordnade',
+	// Modifiering 2015-1-10 Niclas Pallin
+	'Public: Read Only' => 'Offentlig: endast läs',
+	'Public: Read, Create/Edit' => 'Offentlig: läs och skriv',
+	'Public: Read, Create/Edit, Delete' => 'Offentlig: läs och skriv',
+	'Private' => 'Privat'
 );
 
 $jsLanguageStrings = array(
