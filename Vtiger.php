@@ -181,7 +181,7 @@ $languageStrings = array(
 
     //Basic String Translation
     'LBL_ADD_RECORD' => 'Skapa inlägg',
-    'LBL_RECENTLY_MODIFIED' => 'Senast uppdaterat',
+    'LBL_RECENTLY_MODIFIED' => 'Uppdateringar',
     'LBL_RECORDS_LIST' => 'Inläggslista',
     'LBL_RECORD_SUMMARY' => 'Sammanfattning',
     'LBL_ACCESS_DENIED_FOR' => 'Åtkomst nekad för',
@@ -898,7 +898,7 @@ $jsLanguageStrings = array(
     'JS_SELECT_ATLEAST_TWO_RECORD_FOR_MERGING' => 'Välj minst två grupper för sammanfogning',
     'JS_ALLOWED_TO_SELECT_MAX_OF_THREE_RECORDS' => 'Du får välja högst tre grupper',
     //Notification message for dashboard widget delete
-    'JS_ARE_YOU_SURE_TO_DELETE_WIDGET' => 'Är du säker på att radera widget?',
+    'JS_ARE_YOU_SURE_TO_DELETE_WIDGET' => 'Radera widget: ',
     'JS_DUPLICATE_ENTRIES_FOUND_FOR_THE_VALUE' => 'Kopior hittades för',
     'JS_TOTAL_RECORDS' => 'Totalt antal inlägg',
     'JS_PAGE_NOT_EXIST' => 'Sida finns inte',
