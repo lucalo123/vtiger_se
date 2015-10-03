@@ -9,7 +9,7 @@
  *************************************************************************************/
 $languageStrings = array(
 	//Patch provided by http://trac.vtiger.com/cgi-bin/trac.cgi/ticket/7884
-	'Template Name' => 'Mall namm',
+	'Template Name' => 'Mallnamn',
  	'Templatename' => 'Mallnamn',
  	'Message' => 'Meddelande',
 	'Email Template - Properties of ' => 'E-postmall - egenskaper av',
