@@ -58,10 +58,10 @@ $languageStrings = array(
 
 	'VTLIB_LBL_MODULE_MANAGER' => 'Modulhanterare',
 	'VTLIB_LBL_MODULE_MANAGER_DESCRIPTION' => 'Hantera modulbeteende från Vtiger',
-	'LBL_PICKLIST_EDITOR' => 'Plocklistredigeraren',
+	'LBL_PICKLIST_EDITOR' => 'Valmöjlighetshanteraren',
 	'LBL_PICKLIST_DESCRIPTION' => 'Anpassa plocklista belopp i varje modul',
-	'LBL_PICKLIST_DEPENDENCY_SETUP' => 'Plocklista relationskonfiguration',
-	'LBL_PICKLIST_DEPENDENCY_DESCRIPTION' => 'Sätt upp relation mellan plocklistans värden i varje modul',
+	'LBL_PICKLIST_DEPENDENCY_SETUP' => 'Valmöjligheter associationsonfigurering',
+	'LBL_PICKLIST_DEPENDENCY_DESCRIPTION' => 'Sätt upp association mellan valmöjligheter i varje modul',
 
 	'LBL_MENU_EDITOR' => 'Menyredigeraren',
 	'LBL_MENU_DESC' => 'Anpassa menysekvens',

@@ -8,7 +8,7 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'LBL_SELECT_PICKLIST_IN' => 'Välj plocklista i',
+	'LBL_SELECT_PICKLIST_IN' => 'Välj valmöjlighet i',
 	'LBL_ADD_VALUE' => 'Lägg till belopp',
 	'LBL_RENAME_VALUE' => 'Döp om belopp',
 	'LBL_DELETE_VALUE' => 'Radera belopp',
@@ -20,15 +20,15 @@ $languageStrings = array(
 	'LBL_ITEM_VALUE' => 'Artikelvärde',
 	'LBL_ITEM_TO_RENAME' => 'Artikel att döpa om',
 	'LBL_ENTER_NEW_NAME' => 'Skriv in nytt Namn',
-	'LBL_RENAME_PICKLIST_ITEM' => 'Döp om plocklistsartikel',
-	'LBL_DELETE_PICKLIST_ITEMS' => 'Radera plocklistsartikel',
-	'LBL_ITEMS_TO_DELETE' => 'Artikel att Radera',
+	'LBL_RENAME_PICKLIST_ITEM' => 'Döp om valmöjlighet',
+	'LBL_DELETE_PICKLIST_ITEMS' => 'Radera valmöjlighet',
+	'LBL_ITEMS_TO_DELETE' => 'Artiklar att radera',
 	'LBL_REPLACE_IT_WITH' => 'Ersätt den med',
 	'LBL_ASSIGN_TO_ROLE' => 'Tilldela till roll',
 	'LBL_ALL_ROLES' => 'Alla roller',
 	'LBL_CHOOSE_ROLES' => 'Välj roller',
 	'LBL_ALL_VALUES' => 'Alla värden',
-	'LBL_VALUES_ASSIGNED_TO_A_ROLE' => 'Värden tilldelade till en Roll',
+	'LBL_VALUES_ASSIGNED_TO_A_ROLE' => 'Värden tilldelade till en roll',
 	'LBL_ASSIGN_VALUE' => 'Tilldela belopp',
 	'LBL_SAVE_ORDER' => 'Spara order',
 	'LBL_ROLE_NAME' => 'Rollnamn',
@@ -36,7 +36,7 @@ $languageStrings = array(
 	'LBL_ENABLE/DISABLE_MESSGAE' => 'Klicka på värde för att aktivera / inaktivera',
 	'LBL_ASSIGN_VALUES_TO_ROLES' => 'Tilldela värden till roller',
 	'LBL_SELECTED_VALUES' => 'Valda värden',
-    'NO_PICKLIST_FIELDS'=> 'Saknar plocklistefält',
+    'NO_PICKLIST_FIELDS'=> 'Saknar valmöjlighetsfält',
 );
 $jsLanguageStrings = array(
 	//PickList 
